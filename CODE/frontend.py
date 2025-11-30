@@ -342,9 +342,9 @@ with st.sidebar:
     **Base:** google/flan-t5-base  
     **Training:** 8,559 examples  
     **Performance:**
-    - Exact Match: 37%
-    - Execution Accuracy: 61%
-    - Valid SQL: 77%
+    - Exact Match: 67.3%
+    - Execution Accuracy: 83.1%
+    - Valid SQL: 89.8%
     """)
     
     st.markdown("---")
