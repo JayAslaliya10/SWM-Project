@@ -50,15 +50,6 @@ SWM-Project/
 
 
 
-## The pipeline supports:
-
-* Dataset loading & schema extraction
-* Normalization and prompt creation
-* BiLSTM baseline and Flan-T5 transformer models
-* Interactive demo (Streamlit frontend)
-* Evaluation metrics & visualizations
-
-
 
 ## Getting Started
 
@@ -164,11 +155,21 @@ Key metrics used:
  * Valid SQL (% Valid): % of generated SQL queries that execute without syntax/runtime errors.
 
 ---
-### 8.Tech Stack
+### 8. Tech Stack
 * **Core**: Python, PyTorch, HuggingFace Transformers<br>
 * **Data**: Spider dataset, SQLite<br>
 * **Frontend**: Streamlit (CODE/frontend.py)<br>
 * **Visualization**: Matplotlib, Pandas, Jupyter Notebooks
+
+---
+
+### 9. The pipeline supports:
+
+* Dataset loading & schema extraction
+* Normalization and prompt creation
+* BiLSTM baseline and Flan-T5 transformer models
+* Interactive demo (Streamlit frontend)
+* Evaluation metrics & visualizations
 
 ---
 
