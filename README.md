@@ -49,16 +49,16 @@ SWM-Project/
 ```
 
 
-```bash
-The pipeline supports:
+
+## The pipeline supports:
 
 * Dataset loading & schema extraction
 * Normalization and prompt creation
 * BiLSTM baseline and Flan-T5 transformer models
 * Interactive demo (Streamlit frontend)
 * Evaluation metrics & visualizations
-```
---
+
+
 
 ## Getting Started
 
